@@ -51,11 +51,11 @@
 
 <p align="center">
   <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=arafatidris&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=58A6FF&dates=8B949E" alt="streak" />
-  <img height="175em" src="https://github-readme-stats-iota-pearl-87.vercel.app/api?username=arafatidris&show_icons=true&count_private=true&theme=github_dark&hide_border=false" alt="stats" />
+  <img height="175em" src="https://github-readme-stats-iota-pearl-87.vercel.app/api?username=arafatidris&show_icons=true&count_private=true&theme=github_dark&hide_border=false&v=2" alt="stats" />
 </p>
 
 <p align="center">
-  <img height="175em" src="https://github-readme-stats-iota-pearl-87.vercel.app/api/top-langs/?username=arafatidris&layout=compact&langs_count=8&theme=github_dark&hide_border=false" alt="top languages" />
+  <img height="175em" src="https://github-readme-stats-iota-pearl-87.vercel.app/api/top-langs/?username=arafatidris&layout=compact&langs_count=8&theme=github_dark&hide_border=false&v=2" alt="top languages" />
 </p>
 
 <br>
