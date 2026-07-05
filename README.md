@@ -1,73 +1,63 @@
-<!-- =========================================================
-     Commit this file to a PUBLIC repo named exactly: arafatidris
-     (i.e. the repo arafatidris/arafatidris)
-     ========================================================= -->
-
-<!-- Visitor counter (top-right) -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=arafatidris&label=visitors&color=0e75b6&style=flat" alt="visitors" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Arafat Idris</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=arafatidris.arafatidris" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arafat+Idris!;" />
+</h1>
 <h3 align="center">A Full Stack Web developer based in Islamabad, Pakistan 🇵🇰</h3>
-
-<p align="center">
-  🔭 &nbsp;I'm currently working on <b>MERN Stack</b> <br><br>
-  💬 &nbsp;Ask me about <b>React.js, Next.js, Python, FastAPI, Postgres, AWS...</b> or anything <a href="https://www.linkedin.com/in/arafatidris"><b>here</b></a> <br><br>
-  📫 &nbsp;How to reach me:
-</p>
-
-<p align="center">
+<br/>
+<div align="center">
+ 
+ 🔭 I'm currently working on **MERN Stack**
+ 💬 Ask me about **React.js, Next.js, Python, FastAPI, Postgres, AWS... or anything <a href="https://www.linkedin.com/in/arafat-idris/" target="_blank" rel="noopener">here</a>**
+ 
+ </div>
+ 
+<div align="center"> 
   <a href="mailto:arafatkhanyousafzai41@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-</p>
-
-<br>
-
-<!-- ========================= TOOLS ========================= -->
+</div>
+ <hr/>
+ 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,js,postgres,python,fastapi,django,aws,mongodb,css,html,vscode&perline=12" alt="skills" />
-  </a>
-</p>
-
-<br>
-
-<!-- ====================== SNAKE ANIMATION ====================== -->
-<h2 align="center">🐍 My Contributions 🐍</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arafatidris/arafatidris/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-<br>
-
-<!-- =========================== STATS =========================== -->
-<!-- Layout matches your target: streak + GitHub stats side by side, languages below.
-     NOTE: the two vercel.app cards below only render once you self-host on Vercel
-     and swap the domain. The streak card works as-is. -->
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,js,postgres,python,fastapi" />
+    <img src="https://skillicons.dev/icons?i=django,aws,mongodb,css,html,vscode" /><br>
+</div>
+<br/>
+<hr/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arafatidris/arafatidris/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arafatidris/arafatidris/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/arafatidris/arafatidris/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+<div>
+</div>
+<hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
-
-<p align="center">
-  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=arafatidris&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=58A6FF&dates=8B949E" alt="streak" />
-  <img height="175em" src="https://github-readme-stats-iota-pearl-87.vercel.app/api?username=arafatidris&show_icons=true&count_private=true&theme=github_dark&hide_border=false&v=2" alt="stats" />
-</p>
-
-<p align="center">
-  <img height="175em" src="https://github-readme-stats-iota-pearl-87.vercel.app/api/top-langs/?username=arafatidris&layout=compact&langs_count=8&theme=github_dark&hide_border=false&v=2" alt="top languages" />
-</p>
-
 <br>
-
-<!-- ======================= HOLOPIN BADGES =======================
-     This board comes from Holopin (holopin.io) — a DIFFERENT system than the
-     GitHub Achievements on your profile sidebar (Pull Shark, YOLO, etc.).
-     Sign in at holopin.io, open your dashboard, and copy the exact embed it
-     gives you. Paste your board ID over the src URL below if this doesn't render. -->
-<h2 align="center">🎖️ Badges Earned 🎖️</h2>
-<p align="center">
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=arafatidris&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-iota-pearl-87.vercel.app/api?username=arafatidris&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-iota-pearl-87.vercel.app/api/top-langs/?username=arafatidris&hide=Less&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+<br/><br/>
+<hr/>
+<div align="center">
+    <h2 align="center">🎖️ Badges Earned 🎖️</h2>
+    <br>
   <a href="https://holopin.io/@arafatidris">
     <img src="https://holopin.me/arafatidris" alt="Holopin badges" />
   </a>
-</p>
+    <br>
+    <br>
+</div>
+<hr/>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+<br/>
